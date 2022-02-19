@@ -1,3 +1,8 @@
+# Please note, this repo has been archived. The new location for this project is: https://github.com/openhwgroup/cva5
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Documentation and Project Setup
 For up-to-date documentation, as well as an automated build environment setup, refer to [Taiga Project](https://gitlab.com/sfu-rcl/taiga-project)
 
